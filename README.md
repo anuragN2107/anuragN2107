@@ -53,12 +53,12 @@ A passionate data professional focused on building intelligent AI systems, predi
 ## 📈 Engineering Analytics & Git Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragN2107&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragN2107&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragN2107&theme=tokyonight" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
@@ -79,14 +79,3 @@ A passionate data professional focused on building intelligent AI systems, predi
 ## 🔄 Latest GitHub Activity
 *(Automatically updated every 12 hours via GitHub Actions)*
 <!-- END_SECTION:activity -->
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type/waving&color=auto&height=220&section=header&text=Anurag%20👋&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" alt="Header Banner" />
-</p>
-
-### 🚀 Data Science, Machine Learning & AI Systems Architect
-
-```spaces
-[LinkedIn](https://linkedin.com/in/anurag-srivastva-82888299)  •  [Email](mailto:anuragsrivastva20@gmail.com)  •  [Portfolio Hub](https://YOUR_PORTFOLIO_LINK.com)  •  [Technical Blog](https://YOUR_BLOG.com) • [Github](https://github.com/anuragN2107)
-
