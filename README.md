@@ -7,7 +7,7 @@ A passionate data professional focused on building intelligent AI systems, predi
   <a href="(https://)linkedin.com/in/anurag-srivastva-82888299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/anuragN2107"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:anuragsrivastva20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO_LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://gist.githack.com/anuragN2107/e0b5d6374e3ab6c77c5c2bb6de9354cf/raw/da779bcdcfc434d80a8b6608f742bfb334cce348/Portfolio1.html"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
